@@ -1,6 +1,8 @@
 # Banking Management System
 
 ## Project Description  
+I have basic knowledge about java and have made this project mostly using Cursor AI agent.
+
 The Banking Management System is a Java-based application designed to simplify banking operations. With a MySQL backend for data management and a Java-powered graphical user interface, this system ensures efficient, secure, and user-friendly banking operations.
 
 ---
